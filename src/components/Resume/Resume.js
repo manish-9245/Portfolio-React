@@ -44,14 +44,14 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                `Incepto Hackathon(2022) | Secured 1st Position in Hackathon conducted by Team SARK`,`
+                  `Incepto Hackathon(2022) | Secured 1st Position in Hackathon conducted by Team SARK`,`
                 TCS Techbytes (2022) | Quiz - 2nd Runner up in TCS Techbytes India Semi-Finals`,`
                 NaaViC AGRI Hackathon (2022) | 1st position in the hackathon conducted by ICAR, Bangalore`,`
-                Smart India Hackathon (2022) | 1st position in the college level Hackathon conducted by Govt. of India',
+                Smart India Hackathon (2022) | 1st position in the college level Hackathon conducted by Govt. of India`,`
                 Codechef Snackdown (2021) | Secured a Global rank of 63 in over 80,000 participants in Round 1A`,`
                 Provision Hacks Global Hackathon (2021) | Secured Global Runner Up position in 900+ teams worldwide.`,`
                 Code For Good (2021) | JP Morgan Chase and Co. - Participated in the All India Hackathon (Top 600 off 11000+)`,`
-                Scholarship (2019-Present) | Recipient of Defense scholarship for 3 years from Dept. of Technical Education`,
+                Scholarship (2019-Present) | Recipient of Defense scholarship for 3 years from Dept. of Technical Education`,`Igenious Young Talent Hunt (2014) | Max Life Insurance - Secured All India Rank 4`
               ]}
             />
           </Col>
